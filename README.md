@@ -2,6 +2,14 @@
 
 Clase para aprender **FastAPI** y **Pydantic**.
 
+
+
+## aviso
+Requiere Python 3.11 o superior. :D
+
+
+
+
 ## Crear el entorno virtual (venv)
 
 Desde esta carpeta (`clase-fastapi`):
